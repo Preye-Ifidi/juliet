@@ -1,0 +1,19 @@
+body {
+  background-color: #fef9f8;
+}
+
+h2 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 28px;
+  font-weight: 800;
+}
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+}
